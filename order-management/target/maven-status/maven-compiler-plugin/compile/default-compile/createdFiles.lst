@@ -1,0 +1,12 @@
+com\order\management\dao\OrderManagerDao.class
+com\order\management\bl\impl\OrderAccessImpl.class
+com\order\management\dao\impl\OrderAccessDaoImpl.class
+com\order\management\dao\impl\HelperClass.class
+com\order\management\dao\OrderAccessDao.class
+com\properties\management\util\PropertiesUtil.class
+com\order\management\bl\OrderManager.class
+com\order\management\dao\impl\OrderManagerDaoImpl.class
+com\order\management\model\Order.class
+com\order\management\bl\impl\OrderManagerImpl.class
+com\properties\management\util\HibernateUtil.class
+com\order\management\bl\OrderAccess.class
